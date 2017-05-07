@@ -28,7 +28,7 @@ import com.flatbuffer.utils.Utils;
 import com.google.gson.Gson;
 
 import java.nio.ByteBuffer;
-
+//zwl
 public class MainActivity extends AppCompatActivity {
 
     public static final String TAG = MainActivity.class.getSimpleName();
